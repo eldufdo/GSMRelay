@@ -1,3 +1,12 @@
+/*
+ *
+ *  Default Connection:
+ *  GSM RX --> Arduino Digital 3
+ *  GSM TX --> Arduino Digital 2
+ *  Relais IN1 --> Arduino Digital 8
+ *
+ */
+
 #include <SoftwareSerial.h>
 #include "SMS.h"
 #include "TC35.h"
